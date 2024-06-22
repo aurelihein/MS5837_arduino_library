@@ -1,4 +1,4 @@
-# BlueRobotics MS5837 Library ![Test](https://github.com/bluerobotics/BlueRobotics_MS5837_Library/workflows/Test/badge.svg)
+# MS5837 arduino Library (Fork from https://github.com/bluerobotics/BlueRobotics_MS5837_Library)
 
 Arduino library for the MS5837 pressure sensor. The MS5837 is a tiny SMT pressures sensor from Measurement Specialties that can measure pressure of up to 30 Bar (300m depth) with resolution of 0.2 mbar.
 
